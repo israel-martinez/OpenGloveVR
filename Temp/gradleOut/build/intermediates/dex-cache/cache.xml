@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/israel-martinez/code/src/github.com/openglove-projects/israel-martinez/OpenGloveVR/OpenGloveVR/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f55e1739fb6b978d420072fa39ac07e89fb748d0">
+        <dex dex="/Users/israel-martinez/code/src/github.com/openglove-projects/israel-martinez/OpenGloveVR/OpenGloveVR/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_5791911649ff246d6157717a6dc466f71bd59349.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/israel-martinez/.android/build-cache/74431015727f350ec80f5f854f6a8af4d86a429c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="0e73b79f6ee536f7b2d00367f0a55dce11a3a61d">
+        <dex dex="/Users/israel-martinez/code/src/github.com/openglove-projects/israel-martinez/OpenGloveVR/OpenGloveVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_98f07abd1b459c832d467c439e601b247179591e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/israel-martinez/.android/build-cache/564f4fdb135e04d8ec3d5bd5f882d1f51bcd563e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="36e70259b99d30e8bd89f2246a70d44a53cb309f">
+        <dex dex="/Users/israel-martinez/code/src/github.com/openglove-projects/israel-martinez/OpenGloveVR/OpenGloveVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_d468062a26782e09a6be09a4255b4eb1932a2dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/israel-martinez/.android/build-cache/ebfebbb175d6222aeb82c6dbc6b7052fab741ae0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="89a665d716c3d6b2922d194ecd5aec7ae45beb3f">
+        <dex dex="/Users/israel-martinez/code/src/github.com/openglove-projects/israel-martinez/OpenGloveVR/OpenGloveVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_a61eee79778da61430586973ecfecf6e3e2b814b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/israel-martinez/.android/build-cache/ef29e467f7d40757460a68d8363d88ae15164665/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9dbb83f0fca00962e516ec6a098b69c7a07d0bf8">
+        <dex dex="/Users/israel-martinez/code/src/github.com/openglove-projects/israel-martinez/OpenGloveVR/OpenGloveVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_94384f81281706da90a74c28be0b838ffc66fe96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/israel-martinez/code/src/github.com/openglove-projects/israel-martinez/OpenGloveVR/OpenGloveVR/Temp/gradleOut/libs/libprotobuf-java-nano.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="fcd53f117550c58490f29c2e27afca051626260d">
+        <dex dex="/Users/israel-martinez/code/src/github.com/openglove-projects/israel-martinez/OpenGloveVR/OpenGloveVR/Temp/gradleOut/build/intermediates/pre-dexed/release/libprotobuf-java-nano_a777d55d3fd09bd98e39192201c6c825948fe6ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3c3b58094572bd9cc7a20c752e08897502036b14">
+        <dex dex="/Users/israel-martinez/code/src/github.com/openglove-projects/israel-martinez/OpenGloveVR/OpenGloveVR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_c06249ac3edfcef6ada0636cfb21f1dcfb184f39.jar" />
+    </item>
+
+</items>

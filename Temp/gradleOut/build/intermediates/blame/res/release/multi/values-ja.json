@@ -1,0 +1,425 @@
+[
+    {
+        "outputFile": "/Users/israel-martinez/code/src/github.com/openglove-projects/israel-martinez/OpenGloveVR/OpenGloveVR/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ja/values-ja.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 174,
+                        "endColumn": 58,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 47,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 233,
+                        "endColumn": 43,
+                        "endOffset": 276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 51,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 277,
+                        "endColumn": 47,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 69,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 325,
+                        "endColumn": 65,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 117,
+                    "endOffset": 401
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 391,
+                        "endColumn": 113,
+                        "endOffset": 504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 406,
+                    "endColumn": 91,
+                    "endOffset": 493
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 505,
+                        "endColumn": 87,
+                        "endOffset": 592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 498,
+                    "endColumn": 43,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 593,
+                        "endColumn": 39,
+                        "endOffset": 632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endColumn": 73,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 633,
+                        "endColumn": 69,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 70,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 703,
+                        "endColumn": 66,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 72,
+                    "endOffset": 755
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 770,
+                        "endColumn": 68,
+                        "endOffset": 838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 760,
+                    "endColumn": 51,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 839,
+                        "endColumn": 47,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 151,
+                    "endOffset": 959
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 887,
+                        "endColumn": 147,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 964,
+                    "endColumn": 157,
+                    "endOffset": 1117
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1035,
+                        "endColumn": 153,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1122,
+                    "endColumn": 64,
+                    "endOffset": 1182
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 1189,
+                        "endColumn": 60,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1187,
+                    "endColumn": 68,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 1250,
+                        "endColumn": 64,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 63,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1315,
+                        "endColumn": 59,
+                        "endOffset": 1374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 90,
+                    "endOffset": 1406
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 1375,
+                        "endColumn": 86,
+                        "endOffset": 1461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1411,
+                    "endColumn": 90,
+                    "endOffset": 1497
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 1462,
+                        "endColumn": 86,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1502,
+                    "endColumn": 66,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1549,
+                        "endColumn": 62,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 47,
+                    "endOffset": 1612
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 1612,
+                        "endColumn": 43,
+                        "endOffset": 1655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1617,
+                    "endColumn": 53,
+                    "endOffset": 1666
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 1656,
+                        "endColumn": 49,
+                        "endOffset": 1705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1671,
+                    "endColumn": 61,
+                    "endOffset": 1728
+                },
+                "from": {
+                    "file": "/Users/israel-martinez/.android/build-cache/532640c9d9ebb394f5c7da1c4454744a09538a43/output/res/values-ja/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 1706,
+                        "endColumn": 57,
+                        "endOffset": 1763
+                    }
+                }
+            }
+        ]
+    }
+]
